@@ -17,3 +17,21 @@ Results are printed to the terminal and written to a text file.
 - [Dataset](PyBank/budget_data.csv)
 - [Python Code](PyBank/main.ipynb)
 - [Results](PyBank/financial_analysis_results.txt)
+
+## PyRamen
+
+Generate a sales report of each menu item in the menu and show the following for each menu item sold:
+
+- the number sold
+- the revenue
+- the cost of goods sold
+- the profit
+
+Results are written to a text file.
+
+### Resources
+
+- [Menu Dataset](PyRamen/menu_data.csv)
+- [Sales Dataset](PyRamen/sales_data.csv)
+- [Python Code](PyRamen/main.ipynb)
+- [Results](PyRamen/output.txt)
