@@ -11,3 +11,9 @@ Analyze the financial records of a fake bank, providing the following:
 - The greatest decrease in losses (date and amount) over the entire period.
 
 Results are printed to the terminal and written to a text file.
+
+### Resources
+
+- [Dataset](PyBank/budget_data.csv)
+- [Python Code](PyBank/main.ipynb)
+- [Results](PyBank/financial_analysis_results.txt)
