@@ -10,4 +10,4 @@ Analyze the financial records of a fake bank, providing the following:
 - The greatest increase in profits (date and amount) over the entire period.
 - The greatest decrease in losses (date and amount) over the entire period.
 
-Results are printed to the terminal and a text file named `output.txt`.
+Results are printed to the terminal and written to a text file.
